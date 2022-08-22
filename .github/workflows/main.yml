@@ -11,7 +11,7 @@ jobs:
   # build and deploy   task's id
   build-and-deploy:
     # run environment
-    runs-on:ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
       # step name
