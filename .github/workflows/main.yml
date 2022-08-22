@@ -1,5 +1,5 @@
 # workflow name
-name:Build and deploy to github
+name: Build and deploy to github
 
 # workflow event  push branch main
 on: 
